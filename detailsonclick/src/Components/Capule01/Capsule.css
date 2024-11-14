@@ -1,0 +1,15 @@
+.view_btn {
+    background-color: transparent !important;
+    border-color: black !important;
+    color: black !important;
+}
+
+.org_bg{
+    background-color: #e1842d;
+}
+
+.back_btn{
+    border-color: #e1842d !important;
+    background-color: transparent !important;
+    color: #e1842d !important;
+}
